@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1301639725 source:/home/morghan/Documents/codeblocks/rpg2/main.cpp
+	<iostream>
+	<irrlicht.h>
+
